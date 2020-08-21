@@ -4,7 +4,7 @@
 
 ## Challenge Overview
 
-The goals for this challenge are for you to present what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped toward creating a classification for further analysis:
+The goals for this challenge are to present what cryptocurrencies are on the trading market and how cryptocurrencies could be grouped toward creating a classification for further analysis:
 
 - Prepare the data for dimensions reduction with PCA and clustering using K-means.
 - Reduce data dimensions using PCA algorithms from sklearn.
