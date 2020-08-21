@@ -19,6 +19,10 @@ Software: Python (libraries: pandas, hvplot, plotly, and sklearn), Juptyer Noteb
 
 ## Results
 
+**Initial DataFrame**
+
+![](images/initial_df.PNG)
+
 **Reduced Data Dimensions Using PCA**
 
 ![](images/pca.PNG)
